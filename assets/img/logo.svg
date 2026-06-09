@@ -1,0 +1,13 @@
+<svg width="220" height="48" viewBox="0 0 220 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="!5@28A">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#lg)"/>
+  <path d="M13 14h6l5 13 5-13h6l-8 20h-6L13 14z" fill="#fff"/>
+  <circle cx="34" cy="32" r="3" fill="#fff" opacity="0.85"/>
+  <text x="58" y="22" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="800" fill="#0f172a" letter-spacing="0.5"><tspan fill="#2563eb">!5@28A</tspan></text>
+  <text x="58" y="38" font-family="'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="500" fill="#64748b" letter-spacing="1.5"> ,! · "%'! +</text>
+</svg>
